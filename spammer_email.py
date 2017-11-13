@@ -1,5 +1,10 @@
 #!/usr/bin/python
 
+# - Spammer-Email
+# | Author: P4kL0nc4t
+# | Date: 13/11/2017
+# | Editing author will not make you the real coder :)
+
 import argparse
 import requests
 import time
